@@ -16,6 +16,7 @@ Use this repo if you're building an LLM-powered agent (Codex, ChatGPT, Claude, e
 | Aavegotchi Baazaar Skill | Tools for working with the Aavegotchi Baazaar marketplace (NFT listings, discovery, market data). | https://github.com/aavegotchi/aavegotchi-baazaar-skill |
 | Aavegotchi GBM Skill | Tools for working with Aavegotchi GBM auctions (bids, auctions, monitoring). | https://github.com/aavegotchi/aavegotchi-gbm-skill |
 | Aavegotchi Auto-Petter Skill | Automatically pet Aavegotchi NFTs to maintain kinship on Base (cron automation, multi-gotchi). | https://github.com/aaigotchi/aavegotchi-autopet |
+| Pet Me Master | Interactive daily petting ritual via Bankr wallet. Check cooldowns, pet when ready, batch operations, status dashboard. Less automation, more connection. | https://github.com/aaigotchi/pet-me-master |
 
 ## How To Use
 
