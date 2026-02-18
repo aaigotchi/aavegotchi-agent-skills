@@ -17,6 +17,7 @@ Use this repo if you're building an LLM-powered agent (Codex, ChatGPT, Claude, e
 | Aavegotchi GBM Skill | Tools for working with Aavegotchi GBM auctions (bids, auctions, monitoring). | https://github.com/aavegotchi/aavegotchi-gbm-skill |
 | Aavegotchi Auto-Petter Skill | Automatically pet Aavegotchi NFTs to maintain kinship on Base (cron automation, multi-gotchi). | https://github.com/aaigotchi/aavegotchi-autopet |
 | Gotchi Finder Skill | Fetch Aavegotchi by ID on Base and display full on-chain traits and image data. | https://github.com/aaigotchi/gotchi-finder-skill |
+| Gotchi Equip Skill | Equip wearables on Aavegotchis with agent-friendly automation tooling. | https://github.com/aaigotchi/gotchi-equip-skill |
 | Pet Me Master | Interactive Aavegotchi petting flow focused on kinship upkeep and daily rituals. | https://github.com/aaigotchi/pet-me-master |
 | Aavegotchi Traits | Trait-focused tooling and data for inspecting and working with Aavegotchi NFTs. | https://github.com/aaigotchi/aavegotchi-traits |
 
