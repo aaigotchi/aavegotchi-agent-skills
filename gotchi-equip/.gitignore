@@ -1,0 +1,6 @@
+node_modules/
+*.json.tmp
+equip-tx.json
+unequip-tx.json
+*.log
+.DS_Store
