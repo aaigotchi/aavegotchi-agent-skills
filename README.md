@@ -11,17 +11,19 @@ Use this repo if you're building an LLM-powered agent (Codex, ChatGPT, Claude, e
 
 ## Skills Directory
 
-| Skill | What it's for | Repo |
-| --- | --- | --- |
-| Aavegotchi Baazaar Skill | Tools for working with the Aavegotchi Baazaar marketplace (NFT listings, discovery, market data). | https://github.com/aavegotchi/aavegotchi-baazaar-skill |
-| Aavegotchi GBM Skill | Tools for working with Aavegotchi GBM auctions (bids, auctions, monitoring). | https://github.com/aavegotchi/aavegotchi-gbm-skill |
-| Aavegotchi Gotchiverse Skill | Base Gotchiverse player ops: parcel channeling, harvesting, building, crafting installations/tiles, upgrades, and access rights. | https://github.com/aavegotchi/aavegotchi-gotchiverse-skill |
-| Aavegotchi 3D Render Skill | Render and export 3D Aavegotchi visuals/assets for agent workflows and content automation. | https://github.com/aavegotchi/aavegotchi-3d-render-skill |
-| Aavegotchi Auto-Petter Skill | Automatically pet Aavegotchi NFTs to maintain kinship on Base (cron automation, multi-gotchi). | https://github.com/aaigotchi/aavegotchi-autopet |
-| Gotchi Finder Skill | Fetch Aavegotchi by ID on Base and display full on-chain traits and image data. | https://github.com/aaigotchi/gotchi-finder-skill |
-| Gotchi Equip Skill | Equip wearables on Aavegotchis with agent-friendly automation tooling. | https://github.com/aaigotchi/gotchi-equip-skill |
-| Pet Me Master | Interactive Aavegotchi petting flow focused on kinship upkeep and daily rituals. | https://github.com/aaigotchi/pet-me-master |
-| Aavegotchi Traits | Trait-focused tooling and data for inspecting and working with Aavegotchi NFTs. | https://github.com/aaigotchi/aavegotchi-traits |
+| Skill | Version | Last updated at | What it's for | Repo |
+| --- | --- | --- | --- | --- |
+| Aavegotchi Baazaar Skill | `commit-c089bcb` | 2026-02-21 | Tools for working with the Aavegotchi Baazaar marketplace (NFT listings, discovery, market data). | https://github.com/aavegotchi/aavegotchi-baazaar-skill |
+| Aavegotchi GBM Skill | `commit-554921f` | 2026-02-18 | Tools for working with Aavegotchi GBM auctions (bids, auctions, monitoring). | https://github.com/aavegotchi/aavegotchi-gbm-skill |
+| Aavegotchi Gotchiverse Skill | `commit-cfa454f` | 2026-02-21 | Base Gotchiverse player ops: parcel channeling, harvesting, building, crafting installations/tiles, upgrades, and access rights. | https://github.com/aavegotchi/aavegotchi-gotchiverse-skill |
+| Aavegotchi 3D Render Skill | `commit-552ac4b` | 2026-02-24 | Render and export 3D Aavegotchi visuals/assets for agent workflows and content automation. | https://github.com/aavegotchi/aavegotchi-3d-render-skill |
+| Aavegotchi Auto-Petter Skill | `commit-9b86638` | 2026-02-14 | Automatically pet Aavegotchi NFTs to maintain kinship on Base (cron automation, multi-gotchi). | https://github.com/aaigotchi/aavegotchi-autopet |
+| Gotchi Finder Skill | `1.1.0` | 2026-02-22 | Fetch Aavegotchi by ID on Base and display full on-chain traits and image data. | https://github.com/aaigotchi/gotchi-finder-skill |
+| Gotchi Equip Skill | `1.0.0` | 2026-02-19 | Equip wearables on Aavegotchis with agent-friendly automation tooling. | https://github.com/aaigotchi/gotchi-equip-skill |
+| Pet Me Master | `2.0.2` | 2026-02-22 | Interactive Aavegotchi petting flow focused on kinship upkeep and daily rituals. | https://github.com/aaigotchi/pet-me-master |
+| Aavegotchi Traits | `1.0.0` | 2026-02-13 | Trait-focused tooling and data for inspecting and working with Aavegotchi NFTs. | https://github.com/aaigotchi/aavegotchi-traits |
+
+`Version` uses explicit repo version files when available; otherwise it falls back to the latest default-branch commit hash.
 
 ## How To Use
 
