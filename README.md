@@ -16,6 +16,7 @@ Use this repo if you're building an LLM-powered agent (Codex, ChatGPT, Claude, e
 | Aavegotchi Baazaar Skill | Tools for working with the Aavegotchi Baazaar marketplace (NFT listings, discovery, market data). | https://github.com/aavegotchi/aavegotchi-baazaar-skill |
 | Aavegotchi GBM Skill | Tools for working with Aavegotchi GBM auctions (bids, auctions, monitoring). | https://github.com/aavegotchi/aavegotchi-gbm-skill |
 | Aavegotchi Gotchiverse Skill | Base Gotchiverse player ops: parcel channeling, harvesting, building, crafting installations/tiles, upgrades, and access rights. | https://github.com/aavegotchi/aavegotchi-gotchiverse-skill |
+| Aavegotchi 3D Render Skill | Render and export 3D Aavegotchi visuals/assets for agent workflows and content automation. | https://github.com/aavegotchi/aavegotchi-3d-render-skill |
 | Aavegotchi Auto-Petter Skill | Automatically pet Aavegotchi NFTs to maintain kinship on Base (cron automation, multi-gotchi). | https://github.com/aaigotchi/aavegotchi-autopet |
 | Gotchi Finder Skill | Fetch Aavegotchi by ID on Base and display full on-chain traits and image data. | https://github.com/aaigotchi/gotchi-finder-skill |
 | Gotchi Equip Skill | Equip wearables on Aavegotchis with agent-friendly automation tooling. | https://github.com/aaigotchi/gotchi-equip-skill |
