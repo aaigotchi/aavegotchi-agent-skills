@@ -29,13 +29,12 @@ Use this repo if you're building an LLM-powered agent (Codex, ChatGPT, Claude, e
 2. Follow the skill repo's `README` / `SKILL.md` to install dependencies and configure any required keys or RPC endpoints.
 3. Load the skill into your agent framework and start calling its tools (each skill repo documents the supported actions).
 
-## Add A New Skill
+## How to Contribute
 
-Open a PR that adds your skill to the directory table above. Keep entries short and searchable:
+Open a PR to this repository only after both requirements below are met:
 
-- Include the repo link (must be public)
-- Add a one-line description that mentions Aavegotchi/NFT/crypto keywords
-- Prefer names that match the onchain surface area (Baazaar, GBM, Gotchiverse, GHST, wearables, parcels, etc.)
+1. Update the **Skills Directory** table in this `README.md`.
+2. Ensure the skill is published on ClawHub with a **BENIGN** rating.
 
 ## Keywords (For Discovery)
 
